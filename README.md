@@ -23,7 +23,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/fmrecipepagemain-IM3EPD082m](https://www.frontendmentor.io/solutions/fmrecipepagemain-IM3EPD082m)
 - Live Site URL: [https://digigrrl525.github.io/FM-Recipe-Page-Main/](https://digigrrl525.github.io/FM-Recipe-Page-Main/)
 
 ## My process
